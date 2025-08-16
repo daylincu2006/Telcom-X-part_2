@@ -1,7 +1,15 @@
 📊 Challenge Telecom X: Análisis de Evasión de Clientes – Parte 2
+
 🎯 Objetivo del Proyecto
-Desarrollar y comparar modelos predictivos para identificar clientes con riesgo de evasión, maximizando el recall en la clase minoritaria (clientes que abandonan) 
-sin comprometer excesivamente la precisión, y reduciendo el impacto de falsos positivos en decisiones comerciales.
+Este proyecto busca construir el futuro de la retención de clientes en Telecom X mediante el uso de análisis estadísticos y modelos de Machine Learning. A través de técnicas avanzadas de clasificación y evaluación, se pretende responder preguntas clave como:
+
+¿Quiénes son los clientes con mayor riesgo de evasión?
+
+¿Qué variables influyen más en ese comportamiento?
+
+¿Qué perfil de cliente requiere mayor atención estratégica?
+
+El conocimiento generado permitirá implementar acciones de retención más efectivas y diseñar estrategias personalizadas, alineadas con los objetivos comerciales de la compañía. El enfoque se centra en maximizar el recall en la clase minoritaria (clientes que abandonan), sin comprometer excesivamente la precisión, y reduciendo el impacto de falsos positivos en decisiones operativas.
 
 🛠️ Tecnologías y Técnicas Utilizadas
 Lenguaje: Python
